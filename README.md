@@ -9,7 +9,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=GYHPCG&theme=ocean-dark&locale=zh_Hans)](https://git.io/streak-stats)
 
 ## Github Activity Graph
-[![GYHPCG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GYHPCG&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GYHPCG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GYHPCG&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently studying on GZU
 - 🌱 I’m currently learning cpp、rust、AISystem and Emobodied AI and so on
