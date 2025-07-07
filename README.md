@@ -5,7 +5,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYHPCG&hide=HTML,C,CSS,php,makefile,make,cmake,jupyter%20notebook,javaScript,Vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYHPCG&hide=makefile,cmake,css&langs_count=18)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYHPCG&hide=makefile,cmake,css&langs_count=18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=GYHPCG&theme=ocean-dark&locale=zh_Hans)](https://git.io/streak-stats)
 
